@@ -1,4 +1,4 @@
-## Estudente: Guilherme Fernandes
+## Estudante: Guilherme Fernandes
 ## Curso: Inteligência Artificial com Langchain
 
 ## Descrição
