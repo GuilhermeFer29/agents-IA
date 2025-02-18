@@ -3,19 +3,17 @@
 
 ## Descrição
 
-O projeto **agents-IA** tem como objetivo explorar conceitos fundamentais de Inteligência Artificial (IA), incluindo agentes inteligentes e suas interações. O repositório contém notebooks Jupyter com exemplos práticos e implementações.
+Este projeto explora conceitos fundamentais de Inteligência Artificial (IA), com foco em agentes inteligentes e suas interações. O repositório contém notebooks Jupyter que demonstram implementações práticas desses conceitos.
 
 ## Estrutura do Projeto
 
-- `aula_01.ipynb` - Introdução aos agentes de IA.
-- `prompt.ipynb` - Exploração de prompts e interações.
-- `requirements.txt` - Lista de dependências necessárias.
+- `aula_01.ipynb`: Introdução aos agentes de IA.
+- `prompt.ipynb`: Exploração de prompts e interações com agentes.
+- `requirements.txt`: Lista de dependências necessárias para executar os notebooks.
 
 ## Requisitos
 
-Antes de iniciar, certifique-se de ter os seguintes requisitos instalados:
-
-- Python 3.8+
+- Python 3.8 ou superior
 - Jupyter Notebook
 - Pip
 
@@ -28,7 +26,7 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados:
    cd agents-IA
    ```
 
-2. **Crie um ambiente virtual (opcional, mas recomendado):**
+2. **Crie um ambiente virtual (recomendado):**
 
    ```bash
    python3 -m venv venv
@@ -41,26 +39,26 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados:
    pip install -r requirements.txt
    ```
 
-## Como Usar
+## Uso
 
-Para executar os notebooks, utilize o comando:
+Para iniciar os notebooks Jupyter:
 
 ```bash
 jupyter notebook
 ```
 
-Em seguida, abra um dos arquivos `.ipynb` pelo navegador para explorar os exemplos interativos.
+No navegador, abra os arquivos `.ipynb` desejados para explorar e executar os exemplos interativos.
 
 ## Contribuição
 
 Contribuições são bem-vindas! Para contribuir:
 
-1. Fork este repositório.
-2. Crie um branch com sua funcionalidade (`git checkout -b minha-feature`).
-3. Realize os commits (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Envie um push para o branch (`git push origin minha-feature`).
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua funcionalidade (`git checkout -b minha-feature`).
+3. Faça commit das suas alterações (`git commit -m 'Adiciona nova funcionalidade'`).
+4. Envie para a branch (`git push origin minha-feature`).
 5. Abra um Pull Request.
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
